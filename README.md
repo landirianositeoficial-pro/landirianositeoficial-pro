@@ -31,6 +31,12 @@ Fusiono habilidades técnicas con experiencia en marketing digital, optimizació
   * Tienda online optimizada para la venta de ropa al mayor y detal (fabricantes de franelas en microdurazno). Cuenta con pasarelas de pago integradas y sistema de atención automatizada.
 * 🧮 **[Calculadora & Facturadora Freelancer](https://landirianositeoficial-pro.github.io/MI-FACTURADORAFREELANCER/)**
   * Herramienta web gratuita diseñada para freelancers que facilita el cálculo de tarifas y la generación rápida de facturas profesionales para clientes.
+  
+## 🌐 Demostración en Vivo
+
+<a href="https://landirianositeoficial-pro.github.io/Selector-de-color-para-franelas-/" target="_blank">
+  <img src="https://shields.io" alt="Probar Aplicación">
+</a>
 
 ---
 
