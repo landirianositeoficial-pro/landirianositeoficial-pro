@@ -32,7 +32,7 @@ Fusiono habilidades técnicas con experiencia en marketing digital, optimizació
 * 🧮 **[Calculadora & Facturadora Freelancer](https://landirianositeoficial-pro.github.io/MI-FACTURADORAFREELANCER/)**
   * Herramienta web gratuita diseñada para freelancers que facilita el cálculo de tarifas y la generación rápida de facturas profesionales para clientes.
   
-## 🌐 Demostración en Vivo
+* 🌐 Demostración en Vivo Selector de colores para franelas de tiendas online
 
 <a href="https://landirianositeoficial-pro.github.io/Selector-de-color-para-franelas-/" target="_blank">
   <img src="https://shields.io" alt="Probar Aplicación">
