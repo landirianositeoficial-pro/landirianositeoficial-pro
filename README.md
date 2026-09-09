@@ -34,6 +34,8 @@ Fusiono habilidades técnicas con experiencia en marketing digital, optimizació
   
 * 🌐 Demostración en Vivo Selector de colores para franelas de tiendas online
 
+portafolio profesional: https://landirianositeoficial-pro.github.io/portafoliojhonmaykelcarloman/
+
 <a href="https://landirianositeoficial-pro.github.io/Selector-de-color-para-franelas-/" target="_blank">
   <img src="https://shields.io" alt="Probar Aplicación">
 </a>
