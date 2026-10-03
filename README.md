@@ -64,5 +64,5 @@ Fusiono habilidades técnicas con experiencia en marketing digital, optimizació
 
 * 💼 **LinkedIn:** [Terry Romero](www.linkedin.com/in/terry-edicson-romero-loreto-7208003a4)
 * 📧 **Correo Electrónico:** [landirianositeoficial@gmail.com](mailto:landirianositeoficial@gmail.com)
-* 🌐 **Página Web Oficial:** [Landirianos Website](https://landirianositeoficial-pro.github.io/landirianoswebsite/)
+* 🌐 **Página Web Oficial:** [Landirianos Website](https://landirianositeoficial-pro.github.io/LANDIRIANO-SITE-OFICIAL-WEB/)
 * 📍 **Ubicación:** Caracas, Venezuela
