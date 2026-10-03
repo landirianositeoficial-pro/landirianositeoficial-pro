@@ -1,6 +1,6 @@
 # ¡Hola! Soy Terry Romero 👋
 
-Soy un **Desarrollador Web Full Stack** y **E-commerce Specialist** autodidacta. Mi enfoque principal es resolver problemas reales mediante código, diseño funcional, integraciones de APIs y estrategias de automatización que impulsan negocios digitales.
+Soy un **Desarrollador Web Full Stack** y **E-commerce Specialist** autodidacta. Mi enfoque principal es resolver problemas reales mediante código, diseño funcional, integraciones de APIs y estrategias de automatización que impulsan negocios digitales. 
 
 Fusiono habilidades técnicas con experiencia en marketing digital, optimización de algoritmos y atención al cliente, lo que me permite crear soluciones tecnológicas que no solo funcionan, sino que escalan y convierten.
 
@@ -27,25 +27,27 @@ Fusiono habilidades técnicas con experiencia en marketing digital, optimizació
 
 ### 🚀 Proyectos Destacados
 
-* 🛍️ **[TerShop Online](https://tershoponlineve.netlify.app/)** 
+* 🌿 **[VIDA ÓPTIMA](https://vida-optima-oficial.github.io/VIDA-OPTIMA-OFICIAL/)**
+  * Aplicación enfocada en el bienestar alimenticio y la longevidad humana. Diseñada para promover la salud vital y aumentar las probabilidades de vivir 100 años de forma saludable mediante un sistema inteligente que procesa perfiles y datos biométricos.
+
+* 🛍️ **[TerShop Online](https://tershoponlineve.netlify.app/)**
   * Tienda online optimizada para la venta de ropa al mayor y detal (fabricantes de franelas en microdurazno). Cuenta con pasarelas de pago integradas y sistema de atención automatizada.
+
 * 🧮 **[Calculadora & Facturadora Freelancer](https://landirianositeoficial-pro.github.io/MI-FACTURADORAFREELANCER/)**
   * Herramienta web gratuita diseñada para freelancers que facilita el cálculo de tarifas y la generación rápida de facturas profesionales para clientes.
+
+* 🌐 **[Selector de Color para Franelas](https://landirianositeoficial-pro.github.io/Selector-de-color-para-franelas-/)**
+  * Demostración en vivo de un selector de colores interactivo integrado para tiendas online de ropa. 
   
-* 🌐 Demostración en Vivo Selector de colores para franelas de tiendas online
-
-portafolio profesional: https://landirianositeoficial-pro.github.io/portafoliojhonmaykelcarloman/
-
-<a href="https://landirianositeoficial-pro.github.io/Selector-de-color-para-franelas-/" target="_blank">
-  <img src="https://shields.io" alt="Probar Aplicación">
-</a>
+  * [Portafolio Jhonmaykel Carloman](https://landirianositeoficial-pro.github.io/portafoliojhonmaykelcarloman/)
 
 ---
 
 ### 📂 Otros Conocimientos Profesionales
+
 * **Soporte & Plataformas:** Experiencia previa en soporte técnico y moderación en aplicaciones móviles de citas (Salsa App, Mango App).
 * **Turismo & GDS:** Técnico Superior Universitario (TSU) en Turismo con dominio de sistemas globales de distribución (Sabre, Kiu, Amadeus).
-* **Otros desarrollos:** Lógicas básicas y creación de videojuegos dentro del ecosistema Roblox.
+* **Otros desarrollos:** Especialista en promt, manejo de IAS.
 
 ---
 
@@ -54,11 +56,13 @@ portafolio profesional: https://landirianositeoficial-pro.github.io/portafoliojh
 ![Mis Estadísticas de GitHub](https://vercel.app)
 ![Tecnologías más usadas](https://vercel.app)
 
+> *(Nota: Recuerda cambiar `landirianos site` por tu nombre de usuario real de GitHub en los enlaces de las estadísticas para que funcionen)*
+
 ---
 
 ### 📬 Conéctate conmigo
 
-* 💼 **LinkedIn:** [Terry Edicson Romero Loreto](https://linkedin.com)
+* 💼 **LinkedIn:** [Terry Romero](www.linkedin.com/in/terry-edicson-romero-loreto-7208003a4)
 * 📧 **Correo Electrónico:** [landirianositeoficial@gmail.com](mailto:landirianositeoficial@gmail.com)
-*    **PAGINA WEB OFICIAL:** [PAGINAWEB(https://landirianositeoficial-pro.github.io/landirianoswebsite/)
+* 🌐 **Página Web Oficial:** [Landirianos Website](https://landirianositeoficial-pro.github.io/landirianoswebsite/)
 * 📍 **Ubicación:** Caracas, Venezuela
